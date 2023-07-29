@@ -1,0 +1,28 @@
+{
+	"name": "trillo",
+	"version": "1.0.0",
+	"description": "Trillo app",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"dev": "concurrently  \"npm run watch-sass\" \"npm run start-server \" ",
+		"start-server": "dead-server --host=localhost --port=1410",
+		"watch-sass": "sass --watch sass/main.scss:css/style.css"
+	},
+	"keywords": [
+		"HTML",
+		"CSS",
+		"SCSS",
+		"Responsive",
+		"Learning-project"
+	],
+	"author": "Saulius Grazys",
+	"license": "MIT",
+	"dependencies": {
+		"sass": "^1.64.1"
+	},
+	"devDependencies": {
+		"concurrently": "^8.2.0",
+		"dead-server": "^1.0.9"
+	}
+}
