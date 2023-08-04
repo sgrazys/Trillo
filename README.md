@@ -13,7 +13,8 @@
 <h3 align="center">Learning Flex Box | Trillo Web page</h3>
 
   <p align="center">
-    The "Trillo" project is a responsive web application that showcases an elegant user interface for an all-in-one booking app. The primary goal of the project is to enhance knowledge and learn new techniques related to Flexbox. <br/> <br/> <em>Please Note: This project was developed for learning purposes developed based on concepts learned from the <a href='https://www.udemy.com/course/advanced-css-and-sass/'>"Advanced CSS and Sass"</a> course on Udemy by Jonas Schmedtmann.</em> </p>
+    The "Trillo" project is a responsive web application that showcases an elegant user interface for an all-in-one booking app. The project's code is built using HTML and CSS, with a focus on utilizing Flexbox to create flexible and responsive layouts. <br/> <br/>
+    <strong>The primary goal of the project is to enhance knowledge and learn new techniques related to Flexbox.</strong> <br/> <br/> <em>Please Note: This project was developed for learning purposes developed based on concepts learned from the <a href='https://www.udemy.com/course/advanced-css-and-sass/'>"Advanced CSS and Sass"</a> course on Udemy by Jonas Schmedtmann.</em> </p>
 
 <br />
 <a href="https://github.com/sgrazys/Trillo"><strong>Explore the docs »</strong></a>
